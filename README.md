@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aoyama-codes
 - 👀 I’m interested in tech and coding..
 - 🌱 I’m currently learning asp.net core mvc & Java
-- 💞️ I’m looking to collaborate on creating an amazing web app or Java game
+- 💞️ I’m looking to collaborate on creating an amazing web app or Java games
 - 📫 How to reach me: email; winaoyama22@gmail.com
 
 <!---
